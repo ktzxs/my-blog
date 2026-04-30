@@ -2,8 +2,8 @@ import Link from "next/link";
 
 const postagens = [
     {
-        slug: "html",
-        titulo: "html",
+        slug: "html-basico",
+        titulo: "html-basico",
         descricao: "Lorem ipsum dolor sit amet, consectetur ",  
     },
     {
