@@ -6,8 +6,8 @@ type Postagem = {
 
 const postagens: Postagem[] = [
     {
-        slug: "html",
-        titulo: "html",
+        slug: "html-basico",
+        titulo: "html-basico",
         conteudo: "Lorem Ipsum is simply dummy text of the printing and typesetting ",
     },
     {
